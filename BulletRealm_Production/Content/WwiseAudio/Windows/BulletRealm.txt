@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2875587239	Play_Amb_Temp			\BulletRealm\Play_Amb_Temp	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	672721707	Amb_Temp	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\21 Seagulls - No Surf_4B8CC0C5.wem		\Actor-Mixer Hierarchy\BulletRealm\Amb_Temp		4057264
+
