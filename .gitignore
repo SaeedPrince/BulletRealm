@@ -73,3 +73,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Large files
+BulletRealm_Production/BulletRealm.VC.db
+BulletRealm_Production/Content/Map/Map_E1M1_BuiltData.uasset
+BulletRealm_Prototype/Content/FirstPersonBP/Maps/TestMapBulletRealm.umap
+BulletRealm_Wwise/ProfilingSession8.prof
+
