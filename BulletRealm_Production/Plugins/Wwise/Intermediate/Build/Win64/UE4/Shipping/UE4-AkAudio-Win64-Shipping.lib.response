@@ -1,0 +1,10 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"C:\Users\pg10mohammad\Perforce\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4\Shipping\AkAudio\PCH.AkAudio.h.obj"
+"C:\Users\pg10mohammad\Perforce\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4\Shipping\AkAudio\Module.AkAudio.cpp.obj"
+"C:\Users\pg10mohammad\Perforce\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4\Shipping\AkAudio\Module.AkAudio.gen.cpp.obj"
+"C:\Users\pg10mohammad\Perforce\BulletRealm\BulletRealm_Production\Intermediate\Build\Win64\UE4\Shipping\AkAudio\PCLaunch.rc.res"
+/OUT:"C:\Users\pg10mohammad\Perforce\BulletRealm\BulletRealm_Production\Plugins\Wwise\Binaries\Win64\UE4-AkAudio-Win64-Shipping.lib"
