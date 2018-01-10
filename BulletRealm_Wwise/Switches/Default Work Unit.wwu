@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{77D57D01-B3C2-46AE-BC4E-8B4E5F140149}" SchemaVersion="75">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{77D57D01-B3C2-46AE-BC4E-8B4E5F140149}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Music_Gameplay" ID="{70EE9303-C660-4AE9-A772-98F1E5854C55}">
+					<PropertyList>
+						<Property Name="UseGameParameter" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Switch Name="Low" ID="{AAAB2790-BBE3-46E6-B5E3-33D40526E788}"/>
+						<Switch Name="Med" ID="{216BC4E6-8258-4D71-8E83-E4AF6BB79C27}"/>
+						<Switch Name="High" ID="{C9AE53CE-C861-425E-A2C8-E076DF95217B}"/>
+						<Switch Name="Out" ID="{C22C3951-6A3C-4E78-8D42-6998DA15B7FE}"/>
+					</ChildrenList>
+					<SwitchOnRTPC>
+						<GameParameterRef Name="minutes" ID="{9B23324C-412E-4D6B-A5A4-9864C7973A59}"/>
+						<Curve Name="" ID="{DE787AE6-C880-4CB1-8071-262AC39EBA5F}">
+							<PropertyList>
+								<Property Name="Flags" Type="int32" Value="65537"/>
+							</PropertyList>
+							<PointList>
+								<Point>
+									<XPos>-1</XPos>
+									<YPos>4</YPos>
+									<Flags>5</Flags>
+								</Point>
+								<Point>
+									<XPos>-0.0373</XPos>
+									<YPos>3</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>1.05069</XPos>
+									<YPos>2</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>3.0304</XPos>
+									<YPos>1</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>5.02703</XPos>
+									<YPos>0</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>6</XPos>
+									<YPos>1</YPos>
+									<Flags>37</Flags>
+								</Point>
+							</PointList>
+						</Curve>
+					</SwitchOnRTPC>
+				</SwitchGroup>
+				<SwitchGroup Name="Music_UI" ID="{660DB41A-2875-4CE8-9684-D8D9CB5ACC0E}">
+					<PropertyList>
+						<Property Name="UseGameParameter" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Switch Name="Low" ID="{8D23049F-2D14-470F-AC42-4CDC2A7A2CAD}"/>
+						<Switch Name="Med" ID="{92C5B900-25A1-437D-BA70-F10B2F795AE8}"/>
+						<Switch Name="High" ID="{D6068CDF-61E7-4A3D-9A1B-26BD69185A69}"/>
+						<Switch Name="Extra" ID="{6A5EFA4C-E449-4E2D-AF88-670D8FF089CE}"/>
+					</ChildrenList>
+					<SwitchOnRTPC>
+						<GameParameterRef Name="UI_Transistion" ID="{4909F8B5-F92C-4275-AFC4-0D93861C7079}"/>
+						<Curve Name="" ID="{CC6094A2-6274-45B1-8B32-F2CB7C3E1F1A}">
+							<PropertyList>
+								<Property Name="Flags" Type="int32" Value="65537"/>
+							</PropertyList>
+							<PointList>
+								<Point>
+									<XPos>0</XPos>
+									<YPos>1</YPos>
+									<Flags>5</Flags>
+								</Point>
+								<Point>
+									<XPos>1</XPos>
+									<YPos>2</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>2</XPos>
+									<YPos>3</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>2.999</XPos>
+									<YPos>4</YPos>
+									<Flags>0</Flags>
+								</Point>
+								<Point>
+									<XPos>3</XPos>
+									<YPos>4</YPos>
+									<Flags>37</Flags>
+								</Point>
+							</PointList>
+						</Curve>
+					</SwitchOnRTPC>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

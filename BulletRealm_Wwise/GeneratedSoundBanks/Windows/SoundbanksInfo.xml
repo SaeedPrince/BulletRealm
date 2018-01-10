@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3431007342" Language="SFX">
+			<ObjectPath>\SoundBanks\BulletRealm\BulletRealm</ObjectPath>
+			<ShortName>BulletRealm</ShortName>
+			<Path>BulletRealm.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3377523837" Name="Play_Amb_Music_Gameplay" ObjectPath="\Events\BulletRealm\Play_Amb_Music_Gameplay"/>
+				<Event Id="124603217" Name="Play_Mus_BXM" ObjectPath="\Events\BulletRealm\Play_Mus_BXM"/>
+				<Event Id="3669529760" Name="Play_Mus_UI" ObjectPath="\Events\BulletRealm\Play_Mus_UI"/>
+				<Event Id="2043267201" Name="Play_SFX_AK47_BulletCasingBounce" ObjectPath="\Events\BulletRealm\Play_SFX_AK47_BulletCasingBounce"/>
+				<Event Id="565874151" Name="Play_SFX_AK47_Empty" ObjectPath="\Events\BulletRealm\Play_SFX_AK47_Empty"/>
+				<Event Id="3056143472" Name="Play_SFX_AK47_Random_Fire" ObjectPath="\Events\BulletRealm\Play_SFX_AK47_Random_Fire"/>
+				<Event Id="2406678867" Name="Play_SFX_AK47_Reload" ObjectPath="\Events\BulletRealm\Play_SFX_AK47_Reload"/>
+				<Event Id="3011382773" Name="Play_SFX_Alarm" ObjectPath="\Events\BulletRealm\Play_SFX_Alarm"/>
+				<Event Id="3087951411" Name="Play_SFX_CountDown" ObjectPath="\Events\BulletRealm\Play_SFX_CountDown"/>
+				<Event Id="1264733341" Name="Play_SFX_Explode" ObjectPath="\Events\BulletRealm\Play_SFX_Explode"/>
+				<Event Id="57417936" Name="Play_SFX_FootStep" ObjectPath="\Events\BulletRealm\Play_SFX_FootStep"/>
+				<Event Id="2401323723" Name="Play_SFX_HittingEnemy" ObjectPath="\Events\BulletRealm\Play_SFX_HittingEnemy"/>
+				<Event Id="1700985770" Name="Play_SFX_LowHealth" ObjectPath="\Events\BulletRealm\Play_SFX_LowHealth"/>
+				<Event Id="2239198154" Name="Play_SFX_Mellee" ObjectPath="\Events\BulletRealm\Play_SFX_Mellee"/>
+				<Event Id="3156022057" Name="Play_SFX_Random_SPAS12_Fire" ObjectPath="\Events\BulletRealm\Play_SFX_Random_SPAS12_Fire"/>
+				<Event Id="2361342207" Name="Play_SFX_Random_SPAS12_Pump" ObjectPath="\Events\BulletRealm\Play_SFX_Random_SPAS12_Pump"/>
+				<Event Id="1579728626" Name="Play_SFX_Random_SPAS12_Reload" ObjectPath="\Events\BulletRealm\Play_SFX_Random_SPAS12_Reload"/>
+				<Event Id="2270214521" Name="Play_SFX_Random_SPAS12_ShellBounce" ObjectPath="\Events\BulletRealm\Play_SFX_Random_SPAS12_ShellBounce"/>
+				<Event Id="393456409" Name="Play_SFX_SmokeGrenade" ObjectPath="\Events\BulletRealm\Play_SFX_SmokeGrenade"/>
+				<Event Id="1887368747" Name="Play_SFX_SmokeGrenadeTail" ObjectPath="\Events\BulletRealm\Play_SFX_SmokeGrenadeTail"/>
+				<Event Id="2016455362" Name="Play_SFX_Vents" ObjectPath="\Events\BulletRealm\Play_SFX_Vents"/>
+				<Event Id="1755546346" Name="Play_SFX_WallDestruction" ObjectPath="\Events\BulletRealm\Play_SFX_WallDestruction"/>
+				<Event Id="393958262" Name="Play_SFX_Whoosh_047" ObjectPath="\Events\BulletRealm\Play_SFX_Whoosh_047"/>
+				<Event Id="1014473538" Name="Play_VO_Breaths_Marc_052a" ObjectPath="\Events\BulletRealm\Play_VO_Breaths_Marc_052a"/>
+				<Event Id="1219627542" Name="Play_VO_Marc_Death" ObjectPath="\Events\BulletRealm\Play_VO_Marc_Death"/>
+				<Event Id="3366543923" Name="Play_VO_Marc_RandomEquipment" ObjectPath="\Events\BulletRealm\Play_VO_Marc_RandomEquipment"/>
+				<Event Id="2149019624" Name="Play_VO_Marc_RandomHit" ObjectPath="\Events\BulletRealm\Play_VO_Marc_RandomHit"/>
+				<Event Id="3611537966" Name="Play_VO_Marc_RandomLose" ObjectPath="\Events\BulletRealm\Play_VO_Marc_RandomLose"/>
+				<Event Id="2014945781" Name="Play_VO_Marc_RandomWin" ObjectPath="\Events\BulletRealm\Play_VO_Marc_RandomWin"/>
+				<Event Id="3891405327" Name="Play_VO_Marie_Death" ObjectPath="\Events\BulletRealm\Play_VO_Marie_Death"/>
+				<Event Id="1053671254" Name="Play_VO_Marie_RandomEquipment" ObjectPath="\Events\BulletRealm\Play_VO_Marie_RandomEquipment"/>
+				<Event Id="2741135185" Name="Play_VO_Marie_RandomHit" ObjectPath="\Events\BulletRealm\Play_VO_Marie_RandomHit"/>
+				<Event Id="4283990382" Name="Play_VO_Marie_RandomIncoming" ObjectPath="\Events\BulletRealm\Play_VO_Marie_RandomIncoming"/>
+				<Event Id="1279945329" Name="Play_VO_Marie_RandomLose" ObjectPath="\Events\BulletRealm\Play_VO_Marie_RandomLose"/>
+				<Event Id="3274517324" Name="Play_VO_Marie_RandomWin" ObjectPath="\Events\BulletRealm\Play_VO_Marie_RandomWin"/>
+				<Event Id="2376762478" Name="Play_VO_Overseer_HeadShot" ObjectPath="\Events\BulletRealm\Play_VO_Overseer_HeadShot"/>
+				<Event Id="598685152" Name="Play_VO_Overseer_Kill" ObjectPath="\Events\BulletRealm\Play_VO_Overseer_Kill"/>
+				<Event Id="1638199593" Name="Play_VO_Overseer_Last30" ObjectPath="\Events\BulletRealm\Play_VO_Overseer_Last30"/>
+				<Event Id="4206279919" Name="Play_VO_Reload_Marc_048a" ObjectPath="\Events\BulletRealm\Play_VO_Reload_Marc_048a"/>
+				<Event Id="452547817" Name="Stop_ALL" ObjectPath="\Events\BulletRealm\Stop_ALL"/>
+				<Event Id="1969550624" Name="Stop_SFX_LowHealth" ObjectPath="\Events\BulletRealm\Stop_SFX_LowHealth"/>
+				<Event Id="3807842483" Name="Stop_SFX_SmokeGrenade" ObjectPath="\Events\BulletRealm\Stop_SFX_SmokeGrenade"/>
+				<Event Id="39350252" Name="Stop_VO_Breaths_Marc_052a" ObjectPath="\Events\BulletRealm\Stop_VO_Breaths_Marc_052a"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="10791425" Language="SFX">
+					<ShortName>SFX_SPAS12_Reload_03.wav</ShortName>
+					<Path>SFX\SFX_SPAS12_Reload_03_9E69E797.wem</Path>
+				</File>
+				<File Id="22563184" Language="SFX">
+					<ShortName>SFX_HittingEnemy_01.wav</ShortName>
+					<Path>SFX\SFX_HittingEnemy_01_9E69E797.wem</Path>
+				</File>
+				<File Id="53881062" Language="SFX">
+					<ShortName>VO_Win_Marie_009f.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_009f_9E69E797.wem</Path>
+				</File>
+				<File Id="58720135" Language="SFX">
+					<ShortName>MUS_UI_Med.wav</ShortName>
+					<Path>SFX\MUS_UI_Med_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="72191162" Language="SFX">
+					<ShortName>VO_Imcoming_Marc_032a.wav</ShortName>
+					<Path>SFX\VO_Imcoming_Marc_032a_9E69E797.wem</Path>
+				</File>
+				<File Id="75421461" Language="SFX">
+					<ShortName>Metallic Hall.wav</ShortName>
+					<Path>Plugins\iZotope Hybrid Reverb\Metallic Hall_472F3B5D.wem</Path>
+				</File>
+				<File Id="108715957" Language="SFX">
+					<ShortName>VO_Equipment_Marie_022b.wav</ShortName>
+					<Path>SFX\VO_Equipment_Marie_022b_9E69E797.wem</Path>
+				</File>
+				<File Id="118172528" Language="SFX">
+					<ShortName>SFX_ShellBounce_02.wav</ShortName>
+					<Path>SFX\SFX_ShellBounce_02_9E69E797.wem</Path>
+				</File>
+				<File Id="157770990" Language="SFX">
+					<ShortName>Mus_BXM631_TK4_03L.wav</ShortName>
+					<Path>SFX\Mus_BXM631_TK4_03L_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="159076007" Language="SFX">
+					<ShortName>SFX_CountDown_01.wav</ShortName>
+					<Path>SFX\SFX_CountDown_01_9E69E797.wem</Path>
+				</File>
+				<File Id="173933446" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005a.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005a_9E69E797.wem</Path>
+				</File>
+				<File Id="184448655" Language="SFX">
+					<ShortName>VO_Lose_Marc_015a.wav</ShortName>
+					<Path>SFX\VO_Lose_Marc_015a_9E69E797.wem</Path>
+				</File>
+				<File Id="187782064" Language="SFX">
+					<ShortName>Mus_BXM631_TK4_02M.wav</ShortName>
+					<Path>SFX\Mus_BXM631_TK4_02M_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="194813694" Language="SFX">
+					<ShortName>SFX_Alarm_Loop_01.wav</ShortName>
+					<Path>SFX\SFX_Alarm_Loop_01_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="207796770" Language="SFX">
+					<ShortName>VO_Imcoming_Marc_034a.wav</ShortName>
+					<Path>SFX\VO_Imcoming_Marc_034a_9E69E797.wem</Path>
+				</File>
+				<File Id="217736351" Language="SFX">
+					<ShortName>Mus_BXM631_TK4_01H.wav</ShortName>
+					<Path>SFX\Mus_BXM631_TK4_01H_9E69E797.wem</Path>
+				</File>
+				<File Id="218536233" Language="SFX">
+					<ShortName>SFX_Death01.wav</ShortName>
+					<Path>SFX\SFX_Death01_9E69E797.wem</Path>
+				</File>
+				<File Id="220462860" Language="SFX">
+					<ShortName>VO_Win_Marc_010d.wav</ShortName>
+					<Path>SFX\VO_Win_Marc_010d_9E69E797.wem</Path>
+				</File>
+				<File Id="220560359" Language="SFX">
+					<ShortName>VO_Lose_Marie_013c.wav</ShortName>
+					<Path>SFX\VO_Lose_Marie_013c_9E69E797.wem</Path>
+				</File>
+				<File Id="221318075" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005j.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005j_9E69E797.wem</Path>
+				</File>
+				<File Id="224258316" Language="SFX">
+					<ShortName>VO_Equipment_Marie_021c.wav</ShortName>
+					<Path>SFX\VO_Equipment_Marie_021c_9E69E797.wem</Path>
+				</File>
+				<File Id="240691010" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005l.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005l_9E69E797.wem</Path>
+				</File>
+				<File Id="241076168" Language="SFX">
+					<ShortName>VO_Win_Marie_010c_alt.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_010c_alt_9E69E797.wem</Path>
+				</File>
+				<File Id="256477362" Language="SFX">
+					<ShortName>VO_Lose_Marie_016d.wav</ShortName>
+					<Path>SFX\VO_Lose_Marie_016d_9E69E797.wem</Path>
+				</File>
+				<File Id="260968146" Language="SFX">
+					<ShortName>SFX_Hit02.wav</ShortName>
+					<Path>SFX\SFX_Hit02_9E69E797.wem</Path>
+				</File>
+				<File Id="272736585" Language="SFX">
+					<ShortName>SFX_ShellBounce_04.wav</ShortName>
+					<Path>SFX\SFX_ShellBounce_04_9E69E797.wem</Path>
+				</File>
+				<File Id="273240272" Language="SFX">
+					<ShortName>MUS_UI_XHigh.wav</ShortName>
+					<Path>SFX\MUS_UI_XHigh_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="281412803" Language="SFX">
+					<ShortName>SFX_HittingEnemy_02.wav</ShortName>
+					<Path>SFX\SFX_HittingEnemy_02_9E69E797.wem</Path>
+				</File>
+				<File Id="284130922" Language="SFX">
+					<ShortName>VO_Lose_Marie_013g.wav</ShortName>
+					<Path>SFX\VO_Lose_Marie_013g_9E69E797.wem</Path>
+				</File>
+				<File Id="293789404" Language="SFX">
+					<ShortName>SFX_HittingEnemy_03.wav</ShortName>
+					<Path>SFX\SFX_HittingEnemy_03_9E69E797.wem</Path>
+				</File>
+				<File Id="298778701" Language="SFX">
+					<ShortName>SFX_AK47-fire_Tail.WAV</ShortName>
+					<Path>SFX\SFX_AK47-fire_Tail_9E69E797.wem</Path>
+				</File>
+				<File Id="311258720" Language="SFX">
+					<ShortName>VO_Win_Marie_011f.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_011f_9E69E797.wem</Path>
+				</File>
+				<File Id="332542333" Language="SFX">
+					<ShortName>VO_Last30_Overseer_003c.wav</ShortName>
+					<Path>SFX\VO_Last30_Overseer_003c_9E69E797.wem</Path>
+				</File>
+				<File Id="350443153" Language="SFX">
+					<ShortName>SFX_ShellBounce_01.wav</ShortName>
+					<Path>SFX\SFX_ShellBounce_01_9E69E797.wem</Path>
+				</File>
+				<File Id="369665528" Language="SFX">
+					<ShortName>SFX_Hit04.wav</ShortName>
+					<Path>SFX\SFX_Hit04_9E69E797.wem</Path>
+				</File>
+				<File Id="388929970" Language="SFX">
+					<ShortName>VO_Win_Marie_010b_alt.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_010b_alt_9E69E797.wem</Path>
+				</File>
+				<File Id="422059118" Language="SFX">
+					<ShortName>SFX_SPAS12_Fire_01.wav</ShortName>
+					<Path>SFX\SFX_SPAS12_Fire_01_9E69E797.wem</Path>
+				</File>
+				<File Id="432737998" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005m.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005m_9E69E797.wem</Path>
+				</File>
+				<File Id="447569182" Language="SFX">
+					<ShortName>VO_Death_Marie_053c.wav</ShortName>
+					<Path>SFX\VO_Death_Marie_053c_9E69E797.wem</Path>
+				</File>
+				<File Id="461575252" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005e.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005e_9E69E797.wem</Path>
+				</File>
+				<File Id="461928251" Language="SFX">
+					<ShortName>VO_Breaths_Marc_052a.wav</ShortName>
+					<Path>SFX\VO_Breaths_Marc_052a_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="468134466" Language="SFX">
+					<ShortName>Small Metal Room.wav</ShortName>
+					<Path>Plugins\iZotope Hybrid Reverb\Small Metal Room_B580D81B.wem</Path>
+				</File>
+				<File Id="471878556" Language="SFX">
+					<ShortName>VO_Win_Marie_012a.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_012a_9E69E797.wem</Path>
+				</File>
+				<File Id="483269431" Language="SFX">
+					<ShortName>VO_Win_Marc_009a.wav</ShortName>
+					<Path>SFX\VO_Win_Marc_009a_9E69E797.wem</Path>
+				</File>
+				<File Id="483580507" Language="SFX">
+					<ShortName>VO_Win_Marie_012e.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_012e_9E69E797.wem</Path>
+				</File>
+				<File Id="486848453" Language="SFX">
+					<ShortName>SFX_MovingPeicesMap_01.wav</ShortName>
+					<Path>SFX\SFX_MovingPeicesMap_01_9E69E797.wem</Path>
+				</File>
+				<File Id="488314957" Language="SFX">
+					<ShortName>MUS_UI_High.wav</ShortName>
+					<Path>SFX\MUS_UI_High_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="498784451" Language="SFX">
+					<ShortName>VO_Equipment_Marc_022a.wav</ShortName>
+					<Path>SFX\VO_Equipment_Marc_022a_9E69E797.wem</Path>
+				</File>
+				<File Id="500656096" Language="SFX">
+					<ShortName>VO_Lose_Marc_014b.wav</ShortName>
+					<Path>SFX\VO_Lose_Marc_014b_9E69E797.wem</Path>
+				</File>
+				<File Id="505220803" Language="SFX">
+					<ShortName>SFX_SPAS12_Fire_02.wav</ShortName>
+					<Path>SFX\SFX_SPAS12_Fire_02_9E69E797.wem</Path>
+				</File>
+				<File Id="519107423" Language="SFX">
+					<ShortName>VO_Lose_Marc_015b.wav</ShortName>
+					<Path>SFX\VO_Lose_Marc_015b_9E69E797.wem</Path>
+				</File>
+				<File Id="545045321" Language="SFX">
+					<ShortName>VO_Incoming_Marie_034a.wav</ShortName>
+					<Path>SFX\VO_Incoming_Marie_034a_9E69E797.wem</Path>
+				</File>
+				<File Id="555032813" Language="SFX">
+					<ShortName>VO_Hurt_Marie_006.wav</ShortName>
+					<Path>SFX\VO_Hurt_Marie_006_9E69E797.wem</Path>
+				</File>
+				<File Id="555275877" Language="SFX">
+					<ShortName>SFX_WallDestruction.wav</ShortName>
+					<Path>SFX\SFX_WallDestruction_9E69E797.wem</Path>
+				</File>
+				<File Id="557298663" Language="SFX">
+					<ShortName>SFX_SmokeGrenade.wav</ShortName>
+					<Path>SFX\SFX_SmokeGrenade_9E69E797.wem</Path>
+				</File>
+				<File Id="562025572" Language="SFX">
+					<ShortName>VO_Lose_Marc_016a.wav</ShortName>
+					<Path>SFX\VO_Lose_Marc_016a_9E69E797.wem</Path>
+				</File>
+				<File Id="565929798" Language="SFX">
+					<ShortName>SFX_Hit05.wav</ShortName>
+					<Path>SFX\SFX_Hit05_9E69E797.wem</Path>
+				</File>
+				<File Id="600925568" Language="SFX">
+					<ShortName>SFX_Alarm_In_01.wav</ShortName>
+					<Path>SFX\SFX_Alarm_In_01_9E69E797.wem</Path>
+				</File>
+				<File Id="606914820" Language="SFX">
+					<ShortName>Car Interior.wav</ShortName>
+					<Path>Plugins\iZotope Hybrid Reverb\Car Interior_4D0DF11D.wem</Path>
+				</File>
+				<File Id="628309555" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005i.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005i_9E69E797.wem</Path>
+				</File>
+				<File Id="635070894" Language="SFX">
+					<ShortName>SFX_AK_Empty.WAV</ShortName>
+					<Path>SFX\SFX_AK_Empty_9E69E797.wem</Path>
+				</File>
+				<File Id="635164550" Language="SFX">
+					<ShortName>MUS_UI_Low.wav</ShortName>
+					<Path>SFX\MUS_UI_Low_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="665493252" Language="SFX">
+					<ShortName>SFX_ShellBounce_03.wav</ShortName>
+					<Path>SFX\SFX_ShellBounce_03_9E69E797.wem</Path>
+				</File>
+				<File Id="678477029" Language="SFX">
+					<ShortName>VO_Last30_Overseer_003a.wav</ShortName>
+					<Path>SFX\VO_Last30_Overseer_003a_9E69E797.wem</Path>
+				</File>
+				<File Id="684226895" Language="SFX">
+					<ShortName>SFX_SmokeGrenadeTail.wav</ShortName>
+					<Path>SFX\SFX_SmokeGrenadeTail_9E69E797.wem</Path>
+				</File>
+				<File Id="715181407" Language="SFX">
+					<ShortName>Mus_BXM631_TK4_01H.wav</ShortName>
+					<Path>SFX\Mus_BXM631_TK4_01H_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="744178860" Language="SFX">
+					<ShortName>VO_Imcoming_Marc_033a.wav</ShortName>
+					<Path>SFX\VO_Imcoming_Marc_033a_9E69E797.wem</Path>
+				</File>
+				<File Id="744668347" Language="SFX">
+					<ShortName>VO_Hurt_Marie_007.wav</ShortName>
+					<Path>SFX\VO_Hurt_Marie_007_9E69E797.wem</Path>
+				</File>
+				<File Id="746123125" Language="SFX">
+					<ShortName>SFX_FootStep01.wav</ShortName>
+					<Path>SFX\SFX_FootStep01_9E69E797.wem</Path>
+				</File>
+				<File Id="749744401" Language="SFX">
+					<ShortName>VO_HeavyHit_Marie_051b.wav</ShortName>
+					<Path>SFX\VO_HeavyHit_Marie_051b_9E69E797.wem</Path>
+				</File>
+				<File Id="754660119" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005n.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005n_9E69E797.wem</Path>
+				</File>
+				<File Id="757949791" Language="SFX">
+					<ShortName>SFX_SPAS12_Reload_01.wav</ShortName>
+					<Path>SFX\SFX_SPAS12_Reload_01_9E69E797.wem</Path>
+				</File>
+				<File Id="758284143" Language="SFX">
+					<ShortName>VO_Imcoming_Marc_032b.wav</ShortName>
+					<Path>SFX\VO_Imcoming_Marc_032b_9E69E797.wem</Path>
+				</File>
+				<File Id="772576777" Language="SFX">
+					<ShortName>Mus_BXM631_TK4_03L.wav</ShortName>
+					<Path>SFX\Mus_BXM631_TK4_03L_9E69E797.wem</Path>
+				</File>
+				<File Id="776294202" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005f.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005f_9E69E797.wem</Path>
+				</File>
+				<File Id="780775142" Language="SFX">
+					<ShortName>SFX_BulletCasingBounce.WAV</ShortName>
+					<Path>SFX\SFX_BulletCasingBounce_9E69E797.wem</Path>
+				</File>
+				<File Id="795902019" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005b.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005b_9E69E797.wem</Path>
+				</File>
+				<File Id="819841317" Language="SFX">
+					<ShortName>VO_Win_Marie_011d.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_011d_9E69E797.wem</Path>
+				</File>
+				<File Id="827285911" Language="SFX">
+					<ShortName>VO_Win_Marc_012a.wav</ShortName>
+					<Path>SFX\VO_Win_Marc_012a_9E69E797.wem</Path>
+				</File>
+				<File Id="829871508" Language="SFX">
+					<ShortName>SFX_Death02.wav</ShortName>
+					<Path>SFX\SFX_Death02_9E69E797.wem</Path>
+				</File>
+				<File Id="831537139" Language="SFX">
+					<ShortName>VO_Death_Marie_053b.wav</ShortName>
+					<Path>SFX\VO_Death_Marie_053b_9E69E797.wem</Path>
+				</File>
+				<File Id="842461949" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005h.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005h_9E69E797.wem</Path>
+				</File>
+				<File Id="844557614" Language="SFX">
+					<ShortName>VO_Lose_Marie_015c.wav</ShortName>
+					<Path>SFX\VO_Lose_Marie_015c_9E69E797.wem</Path>
+				</File>
+				<File Id="861584119" Language="SFX">
+					<ShortName>SFX_MovingPieces_02.wav</ShortName>
+					<Path>SFX\SFX_MovingPieces_02_9E69E797.wem</Path>
+				</File>
+				<File Id="865440963" Language="SFX">
+					<ShortName>VO_Lose_Marie_014c.wav</ShortName>
+					<Path>SFX\VO_Lose_Marie_014c_9E69E797.wem</Path>
+				</File>
+				<File Id="865750903" Language="SFX">
+					<ShortName>Mus_BXM631_TK4_02M.wav</ShortName>
+					<Path>SFX\Mus_BXM631_TK4_02M_9E69E797.wem</Path>
+				</File>
+				<File Id="866321213" Language="SFX">
+					<ShortName>SFX_SPAS12_Reload_02.wav</ShortName>
+					<Path>SFX\SFX_SPAS12_Reload_02_9E69E797.wem</Path>
+				</File>
+				<File Id="873290874" Language="SFX">
+					<ShortName>SFX_LowHealth_Loop_01.wav</ShortName>
+					<Path>SFX\SFX_LowHealth_Loop_01_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="877187463" Language="SFX">
+					<ShortName>VO_Hurt_Marie_006a.wav</ShortName>
+					<Path>SFX\VO_Hurt_Marie_006a_9E69E797.wem</Path>
+				</File>
+				<File Id="878122260" Language="SFX">
+					<ShortName>VO_Win_Marie_009e.wav</ShortName>
+					<Path>SFX\VO_Win_Marie_009e_9E69E797.wem</Path>
+				</File>
+				<File Id="884322335" Language="SFX">
+					<ShortName>VO_Combo_Overseer_005k_01.wav</ShortName>
+					<Path>SFX\VO_Combo_Overseer_005k_01_9E69E797.wem</Path>
+				</File>
+				<File Id="891728562" Language="SFX">
+					<ShortName>SFX_AK47-fire_Tail_03.wav</ShortName>
+					<Path>SFX\SFX_AK47-fire_Tail_03_9E69E797.wem</Path>
+				</File>
+				<File Id="897012599" Language="SFX">
+					<ShortName>VO_Equipment_Marie_022c.wav</ShortName>
+					<Path>SFX\VO_Equipment_Marie_022c_9E69E797.wem</Path>
+				</File>
+				<File Id="914051495" Language="SFX">
+					<ShortName>SFX_Whoosh_047.WAV</ShortName>
+					<Path>SFX\SFX_Whoosh_047_9E69E797.wem</Path>
+				</File>
+				<File Id="918627987" Language="SFX">
+					<ShortName>VO_Hurt_Marc_008a.wav</ShortName>
+					<Path>SFX\VO_Hurt_Marc_008a_9E69E797.wem</Path>
+				</File>
+				<File Id="924970552" Language="SFX">
+					<ShortName>VO_Win_Marc_010c.wav</ShortName>
+					<Path>SFX\VO_Win_Marc_010c_9E69E797.wem</Path>
+				</File>
+				<File Id="934586366" Language="SFX">
+					<ShortName>VO_Incoming_Marie_033b.wav</ShortName>
+					<Path>SFX\VO_Incoming_Marie_033b_9E69E797.wem</Path>
+				</File>
+				<File Id="943479849" Language="SFX">
+					<ShortName>SFX_SmokeGrenadeloop.wav</ShortName>
+					<Path>SFX\SFX_SmokeGrenadeloop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="949540429" Language="SFX">
+					<ShortName>VO_Last30_Overseer_003b.wav</ShortName>
+					<Path>SFX\VO_Last30_Overseer_003b_9E69E797.wem</Path>
+				</File>
+				<File Id="952624568" Language="SFX">
+					<ShortName>SFX_Explode.WAV</ShortName>
+					<Path>SFX\SFX_Explode_9E69E797.wem</Path>
+				</File>
+				<File Id="972539014" Language="SFX">
+					<ShortName>SFX_AK47-fire_Tail_02.wav</ShortName>
+					<Path>SFX\SFX_AK47-fire_Tail_02_9E69E797.wem</Path>
+				</File>
+				<File Id="977018100" Language="SFX">
+					<ShortName>SFX_Hit01.wav</ShortName>
+					<Path>SFX\SFX_Hit01_9E69E797.wem</Path>
+				</File>
+				<File Id="989502749" Language="SFX">
+					<ShortName>SFX_AK47_Reload.WAV</ShortName>
+					<Path>SFX\SFX_AK47_Reload_9E69E797.wem</Path>
+				</File>
+				<File Id="999861648" Language="SFX">
+					<ShortName>VO_Reload_Marc_048a.wav</ShortName>
+					<Path>SFX\VO_Reload_Marc_048a_9E69E797.wem</Path>
+				</File>
+				<File Id="1000868993" Language="SFX">
+					<ShortName>VO_HeavyHit_Marie_050b.wav</ShortName>
+					<Path>SFX\VO_HeavyHit_Marie_050b_9E69E797.wem</Path>
+				</File>
+				<File Id="1012862865" Language="SFX">
+					<ShortName>SFX_Vents.wav</ShortName>
+					<Path>SFX\SFX_Vents_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1029272795" Language="SFX">
+					<ShortName>SFX_Mellee_01.WAV</ShortName>
+					<Path>SFX\SFX_Mellee_01_9E69E797.wem</Path>
+				</File>
+				<File Id="1062978976" Language="SFX">
+					<ShortName>Mus_BXM631_TK4_Out.wav</ShortName>
+					<Path>SFX\Mus_BXM631_TK4_Out_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1066581187" Language="SFX">
+					<ShortName>VO_Lose_Marc_015c.wav</ShortName>
+					<Path>SFX\VO_Lose_Marc_015c_9E69E797.wem</Path>
+				</File>
+				<File Id="1070114189" Language="SFX">
+					<ShortName>VO_Death_Marie_053a.wav</ShortName>
+					<Path>SFX\VO_Death_Marie_053a_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="601859981">
+	<Platform GUID="{C213B15D-1E6F-4784-BC55-BA85DB8B8DE5}">
+		<Banks>
+			<Language ID="0">
+				<File Name="BulletRealm" Hash="2818009696" Timestamp="131562273143341857"/>
+				<File Name="Init" Hash="1193451911" Timestamp="131562273143371869"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="3411602057" Timestamp="131559567105131096"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

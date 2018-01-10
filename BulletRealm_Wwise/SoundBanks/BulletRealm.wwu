@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F66586A6-D3D6-409E-B8D7-C0B0D76E0A73}" SchemaVersion="75">
+	<SoundBanks>
+		<WorkUnit Name="BulletRealm" ID="{F66586A6-D3D6-409E-B8D7-C0B0D76E0A73}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="BulletRealm" ID="{7658794A-75A5-4CC9-9BB5-1FC3453E271B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="BulletRealm" ID="{86FEC656-843C-4E13-A7A2-7B02F104402E}" WorkUnitID="{86FEC656-843C-4E13-A7A2-7B02F104402E}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

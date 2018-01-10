@@ -1,0 +1,183 @@
+Event	ID	Name			Wwise Object Path	Notes
+	39350252	Stop_VO_Breaths_Marc_052a			\BulletRealm\Stop_VO_Breaths_Marc_052a	
+	57417936	Play_SFX_FootStep			\BulletRealm\Play_SFX_FootStep	
+	124603217	Play_Mus_BXM			\BulletRealm\Play_Mus_BXM	
+	393456409	Play_SFX_SmokeGrenade			\BulletRealm\Play_SFX_SmokeGrenade	
+	393958262	Play_SFX_Whoosh_047			\BulletRealm\Play_SFX_Whoosh_047	
+	452547817	Stop_ALL			\BulletRealm\Stop_ALL	
+	565874151	Play_SFX_AK47_Empty			\BulletRealm\Play_SFX_AK47_Empty	
+	598685152	Play_VO_Overseer_Kill			\BulletRealm\Play_VO_Overseer_Kill	
+	1014473538	Play_VO_Breaths_Marc_052a			\BulletRealm\Play_VO_Breaths_Marc_052a	
+	1053671254	Play_VO_Marie_RandomEquipment			\BulletRealm\Play_VO_Marie_RandomEquipment	
+	1219627542	Play_VO_Marc_Death			\BulletRealm\Play_VO_Marc_Death	
+	1264733341	Play_SFX_Explode			\BulletRealm\Play_SFX_Explode	
+	1279945329	Play_VO_Marie_RandomLose			\BulletRealm\Play_VO_Marie_RandomLose	
+	1579728626	Play_SFX_Random_SPAS12_Reload			\BulletRealm\Play_SFX_Random_SPAS12_Reload	
+	1638199593	Play_VO_Overseer_Last30			\BulletRealm\Play_VO_Overseer_Last30	
+	1700985770	Play_SFX_LowHealth			\BulletRealm\Play_SFX_LowHealth	
+	1755546346	Play_SFX_WallDestruction			\BulletRealm\Play_SFX_WallDestruction	
+	1887368747	Play_SFX_SmokeGrenadeTail			\BulletRealm\Play_SFX_SmokeGrenadeTail	
+	1969550624	Stop_SFX_LowHealth			\BulletRealm\Stop_SFX_LowHealth	
+	2014945781	Play_VO_Marc_RandomWin			\BulletRealm\Play_VO_Marc_RandomWin	
+	2016455362	Play_SFX_Vents			\BulletRealm\Play_SFX_Vents	
+	2043267201	Play_SFX_AK47_BulletCasingBounce			\BulletRealm\Play_SFX_AK47_BulletCasingBounce	
+	2149019624	Play_VO_Marc_RandomHit			\BulletRealm\Play_VO_Marc_RandomHit	
+	2239198154	Play_SFX_Mellee			\BulletRealm\Play_SFX_Mellee	
+	2270214521	Play_SFX_Random_SPAS12_ShellBounce			\BulletRealm\Play_SFX_Random_SPAS12_ShellBounce	
+	2361342207	Play_SFX_Random_SPAS12_Pump			\BulletRealm\Play_SFX_Random_SPAS12_Pump	
+	2376762478	Play_VO_Overseer_HeadShot			\BulletRealm\Play_VO_Overseer_HeadShot	
+	2401323723	Play_SFX_HittingEnemy			\BulletRealm\Play_SFX_HittingEnemy	
+	2406678867	Play_SFX_AK47_Reload			\BulletRealm\Play_SFX_AK47_Reload	
+	2741135185	Play_VO_Marie_RandomHit			\BulletRealm\Play_VO_Marie_RandomHit	
+	3011382773	Play_SFX_Alarm			\BulletRealm\Play_SFX_Alarm	
+	3056143472	Play_SFX_AK47_Random_Fire			\BulletRealm\Play_SFX_AK47_Random_Fire	
+	3087951411	Play_SFX_CountDown			\BulletRealm\Play_SFX_CountDown	
+	3156022057	Play_SFX_Random_SPAS12_Fire			\BulletRealm\Play_SFX_Random_SPAS12_Fire	
+	3274517324	Play_VO_Marie_RandomWin			\BulletRealm\Play_VO_Marie_RandomWin	
+	3366543923	Play_VO_Marc_RandomEquipment			\BulletRealm\Play_VO_Marc_RandomEquipment	
+	3377523837	Play_Amb_Music_Gameplay			\BulletRealm\Play_Amb_Music_Gameplay	
+	3611537966	Play_VO_Marc_RandomLose			\BulletRealm\Play_VO_Marc_RandomLose	
+	3669529760	Play_Mus_UI			\BulletRealm\Play_Mus_UI	
+	3807842483	Stop_SFX_SmokeGrenade			\BulletRealm\Stop_SFX_SmokeGrenade	
+	3891405327	Play_VO_Marie_Death			\BulletRealm\Play_VO_Marie_Death	
+	4206279919	Play_VO_Reload_Marc_048a			\BulletRealm\Play_VO_Reload_Marc_048a	
+	4283990382	Play_VO_Marie_RandomIncoming			\BulletRealm\Play_VO_Marie_RandomIncoming	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	620878633	Music_Gameplay			\Default Work Unit\Music_Gameplay	
+
+Switch	ID	Name	Switch Group			Notes
+	545371365	Low	Music_Gameplay			
+	645492555	Out	Music_Gameplay			
+	981339021	Med	Music_Gameplay			
+	3550808449	High	Music_Gameplay			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	562224358	UI_Transistion			\MyParams\UI_Transistion	
+	1053147292	minutes			\MyParams\minutes	
+	1296465089	Sprint			\MyParams\Sprint	
+
+Effect plug-ins	ID	Name	Type				Notes
+	661949131	Wwise Time Stretch (Custom)	Wwise Time Stretch			
+	835446372	Small_Metal_Room	iZotope Hybrid Reverb			
+	1431265797	Monsterize	Wwise Pitch Shifter			
+	2078611552	Metallic_Hall	iZotope Hybrid Reverb			
+	2849147824	Medium	Wwise RoomVerb			
+	3395979371	Straight_Delay	Wwise Stereo Delay			
+	3948262040	Octave_Down	Wwise Pitch Shifter			
+	4037179432	Car_Interior	iZotope Hybrid Reverb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10791425	SFX_SPAS12_Pump_03	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SPAS12_Reload_03_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_Pump\SFX_SPAS12_Pump_03		94316
+	22563184	SFX_HittingEnemy_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_HittingEnemy_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_HittingEnemy\SFX_HittingEnemy_01		16144
+	53881062	VO_Win_Marie_009f	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_009f_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_009f		199460
+	58720135	MUS_UI_Med	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\MUS_UI_Med_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_UI\Mus_UI_M\MUS_UI_Med\MUS_UI_Med		4235820
+	72191162	VO_Imcoming_Marc_032a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Imcoming_Marc_032a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomEquipment\VO_Imcoming_Marc_032a		56026
+	108715957	VO_Equipment_Marie_022b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Equipment_Marie_022b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomEquipment\VO_Equipment_Marie_022b		108622
+	118172528	SFX_ShellBounce_02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_ShellBounce_02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_ShellBounce\SFX_ShellBounce_02		49136
+	157770990	Mus_BXM631_TK4_03L	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\Mus_BXM631_TK4_03L_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_BXM\BXM_Low\Mus_BXM631_TK4_03L\Mus_BXM631_TK4_03L		4237680
+	159076007	SFX_CountDown	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_CountDown_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_CountDown		849432
+	173933446	VO_Combo_Overseer_005a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Kill\VO_Combo_Overseer_005a		167014
+	184448655	VO_Lose_Marc_015a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marc_015a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomLose\VO_Lose_Marc_015a		213800
+	187782064	Mus_BXM631_TK4_02M	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\Mus_BXM631_TK4_02M_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_BXM\BXM_Med\Mus_BXM631_TK4_02M\Mus_BXM631_TK4_02M		8441808
+	194813694	SFX_Alarm_Loop_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Alarm_Loop_01_4B8CC0C5.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Alarm\SFX_Alarm_Loop_01		317948
+	207796770	VO_Imcoming_Marc_034a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Imcoming_Marc_034a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomEquipment\VO_Imcoming_Marc_034a		81936
+	217736351	Mus_BXM631_TK4_01H	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\Mus_BXM631_TK4_01H_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AMB_Music_Gameplay\Mus_BXM631_TK4_01H		8475568
+	218536233	SFX_Death01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Death01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_Death\SFX_Death01		77664
+	220462860	VO_Win_Marc_010d	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marc_010d_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomWin\VO_Win_Marc_010d		115404
+	220560359	VO_Lose_Marie_013c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marie_013c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomLose\VO_Lose_Marie_013c		113222
+	221318075	VO_Combo_Overseer_005j	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005j_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_HeadShot\VO_Combo_Overseer_005j		101614
+	224258316	VO_Equipment_Marie_021c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Equipment_Marie_021c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomEquipment\VO_Equipment_Marie_021c		105032
+	240691010	VO_Combo_Overseer_005l	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005l_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_HeadShot\VO_Combo_Overseer_005l		97698
+	241076168	VO_Win_Marie_010c_alt	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_010c_alt_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_010c_alt		121074
+	256477362	VO_Lose_Marie_016d	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marie_016d_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomLose\VO_Lose_Marie_016d		191096
+	260968146	SFX_Hit02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Hit02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomHit\SFX_Hit02		35344
+	272736585	SFX_ShellBounce_04	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_ShellBounce_04_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_ShellBounce\SFX_ShellBounce_04		133652
+	273240272	MUS_UI_XHigh	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\MUS_UI_XHigh_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_UI\Mus_UI_X\MUS_UI_XHigh\MUS_UI_XHigh		6355264
+	281412803	SFX_HittingEnemy_02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_HittingEnemy_02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_HittingEnemy\SFX_HittingEnemy_02		24648
+	284130922	VO_Lose_Marie_013g	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marie_013g_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomLose\VO_Lose_Marie_013g		111964
+	293789404	SFX_HittingEnemy_03	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_HittingEnemy_03_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_HittingEnemy\SFX_HittingEnemy_03		21664
+	298778701	SFX_AK47-fire_Tail	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_AK47-fire_Tail_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AK47\SFX_AK47_Random_Fire\SFX_AK47-fire_Tail		177672
+	311258720	VO_Win_Marie_011f	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_011f_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_011f		208472
+	332542333	VO_Last30_Overseer_003c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Last30_Overseer_003c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Last30\VO_Last30_Overseer_003c		243416
+	350443153	SFX_ShellBounce_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_ShellBounce_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_ShellBounce\SFX_ShellBounce_01		67058
+	369665528	SFX_Hit04	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Hit04_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomHit\SFX_Hit04		127422
+	388929970	VO_Win_Marie_010b_alt	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_010b_alt_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_010b_alt		132300
+	422059118	SFX_SPAS12_Fire_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SPAS12_Fire_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_Fire\SFX_SPAS12_Fire_01		156732
+	432737998	VO_Combo_Overseer_005m	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005m_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_HeadShot\VO_Combo_Overseer_005m		94444
+	447569182	VO_Death_Marie_053c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Death_Marie_053c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_Death\VO_Death_Marie_053c		132164
+	461575252	VO_Combo_Overseer_005e	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005e_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Kill\VO_Combo_Overseer_005e		95052
+	461928251	VO_Breaths_Marc_052a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Breaths_Marc_052a_4B8CC0C5.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Breaths_Marc_052a		156150
+	471878556	VO_Win_Marie_012a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_012a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_012a		188038
+	483269431	VO_Win_Marc_009a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marc_009a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomWin\VO_Win_Marc_009a		141514
+	483580507	VO_Win_Marie_012e	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_012e_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_012e		254532
+	486848453	SFX_MovingPeicesMap_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_MovingPeicesMap_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Alarm\MovingPieces\New Blend Container\SFX_MovingPeicesMap_01		801256
+	488314957	MUS_UI_High	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\MUS_UI_High_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_UI\Mus_UI_H\MUS_UI_High\MUS_UI_High		4231420
+	498784451	VO_Equipment_Marc_022a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Equipment_Marc_022a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomEquipment\VO_Equipment_Marc_022a		86410
+	500656096	VO_Lose_Marc_014b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marc_014b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomLose\VO_Lose_Marc_014b		129580
+	505220803	SFX_SPAS12_Fire_02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SPAS12_Fire_02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_Fire\SFX_SPAS12_Fire_02		104540
+	519107423	VO_Lose_Marc_015b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marc_015b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomLose\VO_Lose_Marc_015b		278884
+	545045321	VO_Incoming_Marie_034a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Incoming_Marie_034a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomIncoming\VO_Incoming_Marie_034a		59974
+	555032813	VO_Hurt_Marie_006	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Hurt_Marie_006_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomHit\VO_Hurt_Marie_006		38354
+	555275877	SFX_WallDestruction	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_WallDestruction_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_WallDestruction		94450
+	557298663	SFX_SmokeGrenade	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SmokeGrenade_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SmokeGrenade\SFX_SmokeGrenade\SFX_SmokeGrenade		2880064
+	562025572	VO_Lose_Marc_016a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marc_016a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomLose\VO_Lose_Marc_016a		187144
+	565929798	SFX_Hit05	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Hit05_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomHit\SFX_Hit05		90764
+	600925568	SFX_Alarm_In_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Alarm_In_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Alarm\SFX_Alarm_In_01		318428
+	628309555	VO_Combo_Overseer_005i	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005i_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Kill\VO_Combo_Overseer_005i		226410
+	635070894	SFX_AK47_Empty	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_AK_Empty_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AK47\SFX_AK47_Empty		29616
+	635164550	MUS_UI_Low	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\MUS_UI_Low_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_UI\Mus_UI_L\MUS_UI_Low\MUS_UI_Low		2099208
+	665493252	SFX_ShellBounce_03	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_ShellBounce_03_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_ShellBounce\SFX_ShellBounce_03		140172
+	678477029	VO_Last30_Overseer_003a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Last30_Overseer_003a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Last30\VO_Last30_Overseer_003a		158690
+	684226895	SFX_SmokeGrenadeTail	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SmokeGrenadeTail_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SmokeGrenade\SFX_SmokeGrenadeTail		708260
+	715181407	Mus_BXM631_TK4_01H	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\Mus_BXM631_TK4_01H_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_BXM\BXM_High\Mus_BXM631_TK4_01H\Mus_BXM631_TK4_01H		8475568
+	744178860	VO_Imcoming_Marc_033a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Imcoming_Marc_033a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomEquipment\VO_Imcoming_Marc_033a		67426
+	744668347	VO_Hurt_Marie_007	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Hurt_Marie_007_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomHit\VO_Hurt_Marie_007		24744
+	746123125	SFX_FootStep	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_FootStep01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_FootStep		30224
+	749744401	VO_HeavyHit_Marie_051b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_HeavyHit_Marie_051b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomHit\VO_HeavyHit_Marie_051b		43590
+	754660119	VO_Combo_Overseer_005n	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005n_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_HeadShot\VO_Combo_Overseer_005n		86308
+	757949791	SFX_SPAS12_Pump_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SPAS12_Reload_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_Reload\SFX_SPAS12_Pump_01		95792
+	758284143	VO_Imcoming_Marc_032b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Imcoming_Marc_032b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomEquipment\VO_Imcoming_Marc_032b		66390
+	772576777	Mus_BXM631_TK4_03L	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\Mus_BXM631_TK4_03L_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AMB_Music_Gameplay\Mus_BXM631_TK4_03L		4237680
+	776294202	VO_Combo_Overseer_005f	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005f_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Kill\VO_Combo_Overseer_005f		89378
+	780775142	SFX_BulletCasingBounce	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_BulletCasingBounce_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AK47\SFX_BulletCasingBounce		254180
+	795902019	VO_Combo_Overseer_005b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Kill\VO_Combo_Overseer_005b		112322
+	819841317	VO_Win_Marie_011d	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_011d_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_011d		197276
+	827285911	VO_Win_Marc_012a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marc_012a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomWin\VO_Win_Marc_012a		121412
+	829871508	SFX_Death02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Death02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_Death\SFX_Death02		135300
+	831537139	VO_Death_Marie_053b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Death_Marie_053b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_Death\VO_Death_Marie_053b		100426
+	842461949	VO_Combo_Overseer_005h	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005h_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Kill\VO_Combo_Overseer_005h		164012
+	844557614	VO_Lose_Marie_015c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marie_015c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomLose\VO_Lose_Marie_015c		95834
+	861584119	SFX_MovingPeicesMap_02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_MovingPieces_02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Alarm\MovingPieces\New Blend Container\SFX_MovingPeicesMap_02		208128
+	865440963	VO_Lose_Marie_014c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marie_014c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomLose\VO_Lose_Marie_014c		117040
+	865750903	Mus_BXM631_TK4_02M	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\Mus_BXM631_TK4_02M_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AMB_Music_Gameplay\Mus_BXM631_TK4_02M		8441808
+	866321213	SFX_SPAS12_Pump_02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SPAS12_Reload_02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SPAS12\SFX_Random_SPAS12_Reload\SFX_SPAS12_Pump_02		98932
+	873290874	SFX_LowHealth_Loop_01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_LowHealth_Loop_01_4B8CC0C5.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_LowHealth\SFX_LowHealth_Loop_01		176464
+	877187463	VO_Hurt_Marie_006a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Hurt_Marie_006a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomHit\VO_Hurt_Marie_006a		66172
+	878122260	VO_Win_Marie_009e	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marie_009e_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomWin\VO_Win_Marie_009e		171692
+	884322335	VO_Combo_Overseer_005k	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Combo_Overseer_005k_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_HeadShot\VO_Combo_Overseer_005k		116296
+	891728562	SFX_AK47-fire_Tail_03	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_AK47-fire_Tail_03_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AK47\SFX_AK47_Random_Fire\SFX_AK47-fire_Tail_03		177672
+	897012599	VO_Equipment_Marie_022c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Equipment_Marie_022c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomEquipment\VO_Equipment_Marie_022c		103322
+	914051495	SFX_Whoosh_047	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Whoosh_047_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Whoosh_047		23844
+	918627987	SFX_Hit03	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Hurt_Marc_008a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomHit\SFX_Hit03		68700
+	924970552	VO_Win_Marc_010c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Win_Marc_010c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomWin\VO_Win_Marc_010c		78250
+	934586366	VO_Incoming_Marie_033b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Incoming_Marie_033b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomIncoming\VO_Incoming_Marie_033b		79942
+	943479849	SFX_SmokeGrenadeloop	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_SmokeGrenadeloop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\BulletRealm\SmokeGrenade\SFX_SmokeGrenade\SFX_SmokeGrenadeloop		1843344
+	949540429	VO_Last30_Overseer_003b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Last30_Overseer_003b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Overseer\VO_Overseer_Last30\VO_Last30_Overseer_003b		161942
+	952624568	SFX_Explode	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Explode_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Explode		245244
+	972539014	SFX_AK47-fire_Tail_02	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_AK47-fire_Tail_02_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AK47\SFX_AK47_Random_Fire\SFX_AK47-fire_Tail_02		177672
+	977018100	SFX_Hit01	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Hit01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomHit\SFX_Hit01		31354
+	989502749	SFX_AK47_Reload	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_AK47_Reload_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\AK47\SFX_AK47_Reload		266300
+	999861648	VO_Reload_Marc_048a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Reload_Marc_048a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Reload_Marc_048a		64192
+	1000868993	VO_HeavyHit_Marie_050b	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_HeavyHit_Marie_050b_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_RandomHit\VO_HeavyHit_Marie_050b		41744
+	1012862865	SFX_Vents	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Vents_4B8CC0C5.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Vents		1843344
+	1029272795	SFX_Mellee	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\SFX_Mellee_01_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\SFX_Mellee		90288
+	1062978976	Mus_BXM631_TK4_Out	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\Mus_BXM631_TK4_Out_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Mus_BXM\Mus_BXM631_TK4_Out\Mus_BXM631_TK4_Out		1283572
+	1066581187	VO_Lose_Marc_015c	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Lose_Marc_015c_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marc\VO_Marc_RandomLose\VO_Lose_Marc_015c		155756
+	1070114189	VO_Death_Marie_053a	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\SFX\VO_Death_Marie_053a_9E69E797.wem		\Actor-Mixer Hierarchy\BulletRealm\VO_Marie\VO_Marie_Death\VO_Death_Marie_053a		88366
+
+Plug-in Media	ID	Name	Source file	Type	Wwise Object Path	Notes	Data Size
+	75421461	Metallic_Hall	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\Plugins\iZotope Hybrid Reverb\Metallic Hall_472F3B5D.wem	iZotope Hybrid Reverb (Shared)	\Effects\Factory iZotope Hybrid Reverb Effects\Metallic_Hall		58660
+	468134466	Small_Metal_Room	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\Plugins\iZotope Hybrid Reverb\Small Metal Room_B580D81B.wem	iZotope Hybrid Reverb (Shared)	\Effects\Factory iZotope Hybrid Reverb Effects\Small_Metal_Room		58660
+	606914820	Car_Interior	C:\Users\pg10Dean\Perforce\BulletRealm\BulletRealm_Wwise\.cache\Windows\Plugins\iZotope Hybrid Reverb\Car Interior_4D0DF11D.wem	iZotope Hybrid Reverb (Shared)	\Effects\Factory iZotope Hybrid Reverb Effects\Car_Interior		58660
+
