@@ -52,6 +52,7 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 BulletRealm_Production/Binaries/*
+BulletRealm_Production/Plugins/Wwise/Binaries/*
 
 # Builds
 BulletRealm_Production/Build/*
@@ -77,6 +78,7 @@ BulletRealmPrototype/Saved/*
 # Compiled source files for the engine to use
 BulletRealm_Production/Intermediate/*
 BulletRealmPrototype/Intermediate/*
+BulletRealm_Production/Plugins/Wwise/Intermediate/*
 
 # Cache files for the editor to use
 BulletRealm_Production/DerivedDataCache/*

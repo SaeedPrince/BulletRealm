@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-AkAudio.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\pg10mohammad\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
-"C:\Users\pg10mohammad\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\Module.AkAudio.cpp.obj"
-"C:\Users\pg10mohammad\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\Module.AkAudio.gen.cpp.obj"
-"C:\Users\pg10mohammad\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\PCLaunch.rc.res"
-"C:\Users\pg10mohammad\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
-/OUT:"C:\Users\pg10mohammad\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AkAudio.lib"
+"D:\Archive\Source\UnrealEngine-417\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\sssho\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\Module.AkAudio.cpp.obj"
+"C:\Users\sssho\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AkAudio\Module.AkAudio.gen.cpp.obj"
+"D:\Archive\Source\UnrealEngine-417\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+"D:\Archive\Source\UnrealEngine-417\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\sssho\BulletRealm\BulletRealm_Production\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AkAudio.lib"

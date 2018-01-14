@@ -1,2 +1,0 @@
-BulletRealm	"Play_VO_Marc_Death"
-BulletRealm	"Play_VO_Marc_RandomHit"
